@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1640350180 source:e:\code blocs\5lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
